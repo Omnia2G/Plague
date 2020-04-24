@@ -1,0 +1,9 @@
+Main.class
+service\SIRService.class
+model\Recovered.class
+model\Susceptible.class
+view\view.class
+service\impl\SIRServiceImpl.class
+model\Status.class
+model\Infected.class
+model\Patient.class
